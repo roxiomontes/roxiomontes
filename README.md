@@ -1,4 +1,4 @@
-![Open Source Day](./Email_banner_1.jpg)
+![Open Source Day](./Email_banner_1.png)
 
 Code and learn with contributors around the world at the largest female-led movement 💪  in #OpenSource on July 15th, 2021. #OpenSourceDay2021 has experienced mentors so YOU can level-up your skills during this virtual hackathon. 💻 
 
